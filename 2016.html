@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<h1 id="section">2016</h1>
+<h3 id="august-07-2016">August 07, 2016</h3>
+<ul>
+<li><a href="http://danluu.com/concurrency-bugs/">Notes on concurrency bugs</a></li>
+<li><a href="http://lambda.jstolarek.com/2016/08/first-impression-of-real-world-ocaml/">Yet Another Lambda Blog » First impression of “Real World OCaml”</a></li>
+</ul>
+<h3 id="august-18-2016">August 18, 2016</h3>
+<ul>
+<li><a href="https://glyph.twistedmatrix.com/2016/08/python-packaging.html">Deciphering Glyph :: Python Packaging Is Good Now</a></li>
+</ul>
+<blockquote>
+<p>Today, if you want to get a sensible, up-to-date python development environment, without administrative privileges, all you have to do is:</p>
+</blockquote>
+<pre><code>$ python -m ensurepip --user
+$ python -m pip install --user --upgrade pip
+$ python -m pip install --user --upgrade virtualenv</code></pre>
+<blockquote>
+<p>Then, for each project you want to do, make a new virtualenv:</p>
+</blockquote>
+<pre><code>$ python -m virtualenv lets-go
+$ . ./lets-go/bin/activate
+(lets-go) $ _ </code></pre>
+<blockquote>
+<p>Need a C compiler? OS vendors have been working with the open source community to make this easier across the board:</p>
+</blockquote>
+<pre><code>$ apt install build-essential python-dev # ubuntu
+$ xcode-select --install # macOS
+$ dnf install @development-tools python-devel # fedora
+C:\&gt; REM windows
+C:\&gt; start https://www.microsoft.com/en-us/download/details.aspx?id=44266</code></pre>
+<blockquote>
+<p>Want to upload some stuff to PyPI? This should do it for almost any project:</p>
+</blockquote>
+<pre><code>$ pip install twine
+$ python setup.py sdist bdist_wheel
+$ twine upload dist/*</code></pre>
+<blockquote>
+<p>Want to build wheels for the wild and wooly world of Linux? <a href="https://www.python.org/dev/peps/pep-0513/">There’s an app</a> for that.</p>
+</blockquote>
+<ul>
+<li><a href="http://flowingdata.com/books/">Books | FlowingData</a>. One of the books “Visualise this” written by Nathan Yau looked very interesting in print.</li>
+</ul>
+</body>
+</html>
