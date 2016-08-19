@@ -11,6 +11,7 @@ blockquote {
     border-left: solid 1px gray;
     margin-left: 0;
     padding-left: 1em;
+    text-decoration: italic;
 }
 
 h1, h2, h3, h4, h5, h6 {
