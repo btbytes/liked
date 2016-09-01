@@ -30,3 +30,8 @@ pre, code {
     font-family: "Fira Code", monospace;
     font-size: 0.9em;
 }
+
+
+#TOC {
+    float: right;
+}
