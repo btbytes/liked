@@ -1,4 +1,4 @@
-% Links
+% <a href="https://www.btbytes.com/">btbytes.com</a>: links
 
 ###August 07, 2016
 - [Notes on concurrency bugs](http://danluu.com/concurrency-bugs/)
