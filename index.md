@@ -63,3 +63,6 @@ $ twine upload dist/*
 
 ### September 1, 2016
 - [Why Luck Plays a Big Role in Making You Rich - Bloomberg](http://www.bloomberg.com/news/articles/2016-09-01/why-luck-plays-a-big-role-in-making-you-rich)
+
+### September 2, 2016
+- [AMONG OTHER THINGS](http://www.ks1729.com/) 
