@@ -10,6 +10,10 @@ body {
     margin: 2em;
 }
 
+a {
+    color: #992222;
+}
+
 blockquote {
     color: DarkSlateGray;
     border-left: solid 1px gray;
