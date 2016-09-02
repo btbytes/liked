@@ -5,7 +5,7 @@ OBJS = $(patsubst %.md, %.html, $(SOURCES))
 	pandoc $< -o $@ -s -S  --css=style.css --reference-links --toc
 
 all:: $(OBJS) Makefile
-	git commit -a -m "WIP" && git push origin master
+
 
 clean::
 	rm -f $(OBJS)
