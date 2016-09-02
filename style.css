@@ -8,6 +8,7 @@ html, body {
 
 body {
     margin: 2em;
+    max-width: 52em;
 }
 
 a {
