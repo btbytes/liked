@@ -42,6 +42,16 @@ pre, code {
 }
 
 
+#TOC::before {
+    content: "Navigation";
+}
+
 #TOC {
     float: right;
+}
+
+#TOC li {
+    list-style-type: none;
+    margin-left: 0em;
+    padding-left: 0em;
 }
