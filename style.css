@@ -50,7 +50,19 @@ pre, code {
 
 #TOC {
     float: right;
+    position: absolute;
+    top: 2em;
+    left: 42em;
+    border: dotted 1px #ff9;
+    background-color: #efefef;
+    padding: 0em;
 }
+
+#TOC ul {
+    padding: 0em 1em ;
+    margin 0em;
+}
+
 
 #TOC li {
     list-style-type: none;

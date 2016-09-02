@@ -7,7 +7,8 @@
 ### August 18, 2016
 - [Deciphering Glyph :: Python Packaging Is Good Now](https://glyph.twistedmatrix.com/2016/08/python-packaging.html)
 
-> Today, if you want to get a sensible, up-to-date python development environment, without administrative privileges, all you have to do is:
+> Today, if you want to get a sensible, up-to-date python development environment,
+>  without administrative privileges, all you have to do is:
 
 ```bash
 $ python -m ensurepip --user
@@ -66,4 +67,4 @@ $ twine upload dist/*
 
 ### September 2, 2016
 - [AMONG OTHER THINGS](http://www.ks1729.com/) -- Keerthik Sasidharan @[ks1729](https://twitter.com/ks1729)'s blog on literature, history of India and the world cultures.
-- [Apache Community Development - A Maturity Model for Apache Projects](http://community.apache.org/apache-way/apache-project-maturity-model.html) 
+- [Apache Community Development - A Maturity Model for Apache Projects](http://community.apache.org/apache-way/apache-project-maturity-model.html)
