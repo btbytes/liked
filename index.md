@@ -65,4 +65,4 @@ $ twine upload dist/*
 - [Why Luck Plays a Big Role in Making You Rich - Bloomberg](http://www.bloomberg.com/news/articles/2016-09-01/why-luck-plays-a-big-role-in-making-you-rich)
 
 ### September 2, 2016
-- [AMONG OTHER THINGS](http://www.ks1729.com/) 
+- [AMONG OTHER THINGS](http://www.ks1729.com/) -- Keerthik Sasidharan [@ks1729](https://twitter.com/ks1729)'s blog on literature, history of India and the world cultures.
