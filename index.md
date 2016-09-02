@@ -66,3 +66,4 @@ $ twine upload dist/*
 
 ### September 2, 2016
 - [AMONG OTHER THINGS](http://www.ks1729.com/) -- Keerthik Sasidharan @[ks1729](https://twitter.com/ks1729)'s blog on literature, history of India and the world cultures.
+- [Apache Community Development - A Maturity Model for Apache Projects](http://community.apache.org/apache-way/apache-project-maturity-model.html) 
