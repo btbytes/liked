@@ -44,6 +44,8 @@ pre, code {
 
 #TOC::before {
     content: "Navigation";
+    padding-left: 2em;
+    font-weight: bold;
 }
 
 #TOC {
