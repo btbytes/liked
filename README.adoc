@@ -1,6 +1,3 @@
 = Webpages I liked
 
-- https://btbytes.github.io/liked/2016.html[2016]
-
-
-
+- https://btbytes.github.io/liked/index.html[2016]
