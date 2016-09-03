@@ -72,6 +72,6 @@ pre, code {
 
 @medium print {
     #TOC {
-        display: none;
+        display: none !important;
     }
 }
