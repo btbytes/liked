@@ -70,4 +70,4 @@ $ twine upload dist/*
 - [Apache Community Development - A Maturity Model for Apache Projects](http://community.apache.org/apache-way/apache-project-maturity-model.html)
 
 ### September 3, 2016
-- [Elliot Chance - Automatically Locate When and Where Bugs Were Introduced with git bisect](http://elliot.land/automatically-locate-when-bugs-were-introduced-with-git-bisect) 
+- [Elliot Chance - Automatically Locate When and Where Bugs Were Introduced with git bisect](http://elliot.land/automatically-locate-when-bugs-were-introduced-with-git-bisect) This is a good introduction to what is often mentioned in hushed tones as a advanced command. Pretty easy actually.
