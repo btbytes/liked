@@ -72,3 +72,6 @@ $ twine upload dist/*
 ### September 3, 2016
 - [Elliot Chance - Automatically Locate When and Where Bugs Were Introduced with git bisect](http://elliot.land/automatically-locate-when-bugs-were-introduced-with-git-bisect) This is a good introduction to what is often mentioned in hushed tones as a advanced command. Pretty easy actually.
 - [Rough Consensus and Maximal Interestingness](http://breakingsmart.com/season-1/rough-consensus-and-maximal-interestingness/) 
+
+### September 5, 2016
+- [Raghuram Rajan, India’s Departing Central Banker, Has a New Warning - The New York Times](http://www.nytimes.com/2016/09/05/business/international/india-raghuram-rajan-central-bank.html?&moduleDetail=section-news-5&action=click&contentCollection=Economy&region=Footer&module=MoreInSection&version=WhatsNext&contentID=WhatsNext&pgtype=article) 
