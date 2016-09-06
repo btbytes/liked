@@ -75,3 +75,6 @@ $ twine upload dist/*
 
 ### September 5, 2016
 - [Raghuram Rajan, India’s Departing Central Banker, Has a New Warning - The New York Times](http://www.nytimes.com/2016/09/05/business/international/india-raghuram-rajan-central-bank.html?&moduleDetail=section-news-5&action=click&contentCollection=Economy&region=Footer&module=MoreInSection&version=WhatsNext&contentID=WhatsNext&pgtype=article) 
+
+### September 6, 2016
+- [p761-thompson.pdf](http://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf) 
