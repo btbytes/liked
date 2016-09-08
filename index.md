@@ -85,3 +85,4 @@ $ twine upload dist/*
 ### September 8, 2016
 - [A bite of Python - Red Hat Customer Portal](https://access.redhat.com/blogs/766093/posts/2592591) 
 - [Easy Parsing with Parser Combinators](http://www.lihaoyi.com/post/EasyParsingwithParserCombinators.html) 
+- ['Freddie Mercury was a prodigy': Rock star's Panchgani school bandmates remember 'Bucky'](http://scroll.in/article/815380/freddie-bucky-mercury-the-12-year-old-rockstar-from-panchgani) 
