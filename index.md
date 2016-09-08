@@ -78,3 +78,6 @@ $ twine upload dist/*
 
 ### September 6, 2016
 - [p761-thompson.pdf](http://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf) 
+
+### September 7, 2016
+- [Python Packaging at PayPal | PayPal Engineering Blog](https://www.paypal-engineering.com/2016/09/07/python-packaging-at-paypal/) 
