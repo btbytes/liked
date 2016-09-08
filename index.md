@@ -81,3 +81,6 @@ $ twine upload dist/*
 
 ### September 7, 2016
 - [Python Packaging at PayPal | PayPal Engineering Blog](https://www.paypal-engineering.com/2016/09/07/python-packaging-at-paypal/) 
+
+### September 8, 2016
+- [A bite of Python - Red Hat Customer Portal](https://access.redhat.com/blogs/766093/posts/2592591) 
