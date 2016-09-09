@@ -90,3 +90,4 @@ $ twine upload dist/*
 
 ### September 9, 2016
 - [Kalzumeus Software | Greatest Hits](http://www.kalzumeus.com/greatest-hits/) 
+- [Lisp Machine Manual](https://hanshuebner.github.io/lmman/title.xml) 
