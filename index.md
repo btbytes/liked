@@ -87,3 +87,6 @@ $ twine upload dist/*
 - [Easy Parsing with Parser Combinators](http://www.lihaoyi.com/post/EasyParsingwithParserCombinators.html) 
 - ['Freddie Mercury was a prodigy': Rock star's Panchgani school bandmates remember 'Bucky'](http://scroll.in/article/815380/freddie-bucky-mercury-the-12-year-old-rockstar-from-panchgani) 
 - [Live asynchronously.](https://medium.freecodecamp.com/live-asynchronously-c8e7172fe7ea#.ajws6ka8f) 
+
+### September 9, 2016
+- [Kalzumeus Software | Greatest Hits](http://www.kalzumeus.com/greatest-hits/) 
