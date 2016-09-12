@@ -71,26 +71,26 @@ $ twine upload dist/*
 
 ### September 3, 2016
 - [Elliot Chance - Automatically Locate When and Where Bugs Were Introduced with git bisect](http://elliot.land/automatically-locate-when-bugs-were-introduced-with-git-bisect) This is a good introduction to what is often mentioned in hushed tones as a advanced command. Pretty easy actually.
-- [Rough Consensus and Maximal Interestingness](http://breakingsmart.com/season-1/rough-consensus-and-maximal-interestingness/) 
+- [Rough Consensus and Maximal Interestingness](http://breakingsmart.com/season-1/rough-consensus-and-maximal-interestingness/)
 
 ### September 5, 2016
-- [Raghuram Rajan, India’s Departing Central Banker, Has a New Warning - The New York Times](http://www.nytimes.com/2016/09/05/business/international/india-raghuram-rajan-central-bank.html?&moduleDetail=section-news-5&action=click&contentCollection=Economy&region=Footer&module=MoreInSection&version=WhatsNext&contentID=WhatsNext&pgtype=article) 
+- [Raghuram Rajan, India’s Departing Central Banker, Has a New Warning - The New York Times](http://www.nytimes.com/2016/09/05/business/international/india-raghuram-rajan-central-bank.html?&moduleDetail=section-news-5&action=click&contentCollection=Economy&region=Footer&module=MoreInSection&version=WhatsNext&contentID=WhatsNext&pgtype=article)
 
 ### September 6, 2016
-- [p761-thompson.pdf](http://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf) 
+- [p761-thompson.pdf](http://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 
 ### September 7, 2016
-- [Python Packaging at PayPal | PayPal Engineering Blog](https://www.paypal-engineering.com/2016/09/07/python-packaging-at-paypal/) 
+- [Python Packaging at PayPal | PayPal Engineering Blog](https://www.paypal-engineering.com/2016/09/07/python-packaging-at-paypal/)
 
 ### September 8, 2016
-- [A bite of Python - Red Hat Customer Portal](https://access.redhat.com/blogs/766093/posts/2592591) 
-- [Easy Parsing with Parser Combinators](http://www.lihaoyi.com/post/EasyParsingwithParserCombinators.html) 
-- ['Freddie Mercury was a prodigy': Rock star's Panchgani school bandmates remember 'Bucky'](http://scroll.in/article/815380/freddie-bucky-mercury-the-12-year-old-rockstar-from-panchgani) 
-- [Live asynchronously.](https://medium.freecodecamp.com/live-asynchronously-c8e7172fe7ea#.ajws6ka8f) 
+- [A bite of Python - Red Hat Customer Portal](https://access.redhat.com/blogs/766093/posts/2592591)
+- [Easy Parsing with Parser Combinators](http://www.lihaoyi.com/post/EasyParsingwithParserCombinators.html)
+- ['Freddie Mercury was a prodigy': Rock star's Panchgani school bandmates remember 'Bucky'](http://scroll.in/article/815380/freddie-bucky-mercury-the-12-year-old-rockstar-from-panchgani)
+- [Live asynchronously.](https://medium.freecodecamp.com/live-asynchronously-c8e7172fe7ea#.ajws6ka8f)
 
 ### September 9, 2016
-- [Kalzumeus Software | Greatest Hits](http://www.kalzumeus.com/greatest-hits/) 
-- [Lisp Machine Manual](https://hanshuebner.github.io/lmman/title.xml) 
+- [Kalzumeus Software | Greatest Hits](http://www.kalzumeus.com/greatest-hits/)
+- [Lisp Machine Manual](https://hanshuebner.github.io/lmman/title.xml)
 
 ### September 11, 2016
-- [Stephen Wolfram, A New Kind of Science](http://bactra.org/reviews/wolfram/) 
+- [Stephen Wolfram, A New Kind of Science](http://bactra.org/reviews/wolfram/) via [2012 update](http://bactra.org/weblog/915.html)
