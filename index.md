@@ -94,3 +94,6 @@ $ twine upload dist/*
 
 ### September 11, 2016
 - [Stephen Wolfram, A New Kind of Science](http://bactra.org/reviews/wolfram/) via [2012 update](http://bactra.org/weblog/915.html)
+
+### September 12, 2016
+- [kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way on Google Cloud Platform or Amazon EC2. No scripts.](https://github.com/kelseyhightower/kubernetes-the-hard-way) 
