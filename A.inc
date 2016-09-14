@@ -1,3 +1,5 @@
+<p>Inspired by <a href="http://waxy.org/links/">waxy.org/links</a>.</p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -6,5 +8,4 @@
 
   ga('create', 'UA-84156325-1', 'auto');
   ga('send', 'pageview');
-
 </script>
