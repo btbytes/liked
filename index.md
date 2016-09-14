@@ -1,6 +1,8 @@
 % <a href="https://www.btbytes.com/">btbytes.com</a>: links
 
-###August 07, 2016
+## August
+
+### August 07, 2016
 - [Notes on concurrency bugs](http://danluu.com/concurrency-bugs/)
 - [Yet Another Lambda Blog » First impression of “Real World OCaml”](http://lambda.jstolarek.com/2016/08/first-impression-of-real-world-ocaml/)
 
@@ -61,6 +63,8 @@ $ twine upload dist/*
 
 ### August 31, 2016
 - [Rewrites vs. refactoring: 17 opinions and resources](http://techbeacon.com/17-opinions-resources-rewrites-vs-refactoring)
+
+## September
 
 ### September 1, 2016
 - [Why Luck Plays a Big Role in Making You Rich - Bloomberg](http://www.bloomberg.com/news/articles/2016-09-01/why-luck-plays-a-big-role-in-making-you-rich)
