@@ -74,29 +74,35 @@ $ twine upload dist/*
 - [Rough Consensus and Maximal Interestingness](http://breakingsmart.com/season-1/rough-consensus-and-maximal-interestingness/)
 
 ### September 5, 2016
-- [Raghuram Rajan, India’s Departing Central Banker, Has a New Warning - The New York Times](http://www.nytimes.com/2016/09/05/business/international/india-raghuram-rajan-central-bank.html?&moduleDetail=section-news-5&action=click&contentCollection=Economy&region=Footer&module=MoreInSection&version=WhatsNext&contentID=WhatsNext&pgtype=article)
+
+- [Raghuram Rajan, India’s Departing Central Banker, Has a New Warning](http://www.nytimes.com/2016/09/05/business/international/india-raghuram-rajan-central-bank.html) - profile piece on RRR by NYT.
 
 ### September 6, 2016
-- [p761-thompson.pdf](http://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
+
+- [Reflections on trusting trust](http://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf) by Ken Thompson  of C fame. In this Turing lecture he talks about the trojan he introduced in the C compiler that went undetected for many years.
+> To what extent should one trust a statement that a program is free of Trojan horses? Perhaps it is more important to trust the people who wrote the software.
 
 ### September 7, 2016
 - [Python Packaging at PayPal | PayPal Engineering Blog](https://www.paypal-engineering.com/2016/09/07/python-packaging-at-paypal/)
 
 ### September 8, 2016
-- [A bite of Python - Red Hat Customer Portal](https://access.redhat.com/blogs/766093/posts/2592591)
-- [Easy Parsing with Parser Combinators](http://www.lihaoyi.com/post/EasyParsingwithParserCombinators.html)
-- ['Freddie Mercury was a prodigy': Rock star's Panchgani school bandmates remember 'Bucky'](http://scroll.in/article/815380/freddie-bucky-mercury-the-12-year-old-rockstar-from-panchgani)
-- [Live asynchronously.](https://medium.freecodecamp.com/live-asynchronously-c8e7172fe7ea#.ajws6ka8f)
+- [A bite of Python](https://access.redhat.com/blogs/766093/posts/2592591) -- some gotchas while programming Python you have to keep in mind.
+- [Easy Parsing with Parser Combinators](http://www.lihaoyi.com/post/EasyParsingwithParserCombinators.html); another hit blog post by Li Haoyi, the creator of many scala libraries (eg: [Ammonite](http://www.lihaoyi.com/Ammonite/)). His blog post on [Scala.js]() convinced me to look at Scala.js next time I have to scala at $work, where we already use Scala.
+- ['Freddie Mercury was a prodigy': Rock star's Panchgani school bandmates remember 'Bucky'](http://scroll.in/article/815380/freddie-bucky-mercury-the-12-year-old-rockstar-from-panchgani); a decent interview with Freddie Mercury's Indian school mates in Pune.
+- [Live asynchronously.](https://medium.freecodecamp.com/live-asynchronously-c8e7172fe7ea#.ajws6ka8f). Understand the cost of interruptions while working espeically for focus-intensive tasks like Programming.
 
 ### September 9, 2016
-- [Kalzumeus Software | Greatest Hits](http://www.kalzumeus.com/greatest-hits/)
-- [Lisp Machine Manual](https://hanshuebner.github.io/lmman/title.xml)
+- [Kalzumeus Software | Greatest Hits](http://www.kalzumeus.com/greatest-hits/) Blog posts of long time HN luminary Patrick McKenzie.
+- [Lisp Machine Manual](https://hanshuebner.github.io/lmman/title.xml) by Richard Stallman etc., from 1984. The introduction has one of the earliest mentions of GNU by RMS.
+
 
 ### September 11, 2016
-- [Stephen Wolfram, A New Kind of Science](http://bactra.org/reviews/wolfram/) via [2012 update](http://bactra.org/weblog/915.html)
+- Review of [Stephen Wolfram, A New Kind of Science](http://bactra.org/reviews/wolfram/) by Cosma Shalizi (TL;DR. he is not a fan of the man or the book) via [2012 update](http://bactra.org/weblog/915.html)
 
 ### September 12, 2016
-- [kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way on Google Cloud Platform or Amazon EC2. No scripts.](https://github.com/kelseyhightower/kubernetes-the-hard-way) 
+
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) -- Bootstrap Kubernetes the hard way on Google Cloud Platform or Amazon EC2. No scripts.
 
 ### September 13, 2016
-- [An updated Joel Test — steve.codes](http://www.steve.codes/blog/2016/7/22/an-updated-joel-test) 
+
+- [An updated Joel Test — steve.codes](http://www.steve.codes/blog/2016/7/22/an-updated-joel-test)
