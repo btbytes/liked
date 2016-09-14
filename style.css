@@ -4,6 +4,7 @@ html, body {
     font-family: "Fira Sans", sans-serif;
     font-size: 11pt;
     line-height: 1.33em;
+    color: #292929;
 }
 
 body {
@@ -33,9 +34,9 @@ h1, h2, h3 {
 }
 
 h2 {
-	margin-top: 0.5em;
-	padding-bottom: 0.5em;
-	border-bottom: solid 2px #afa;
+	margin-top: 1.5em;
+	padding-bottom: 1em;
+	color: #333;
 }
 
 p {
