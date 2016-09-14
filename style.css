@@ -77,6 +77,10 @@ pre, code {
     padding-left: 0em;
 }
 
+#TOC li > li  {
+	padding-left: 0.5em;
+}
+
 @medium print {
     #TOC {
         display: none !important;
