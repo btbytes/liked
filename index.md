@@ -67,11 +67,11 @@ $ twine upload dist/*
 ## September
 
 ### September 1, 2016
-- [Why Luck Plays a Big Role in Making You Rich - Bloomberg](http://www.bloomberg.com/news/articles/2016-09-01/why-luck-plays-a-big-role-in-making-you-rich)
+- [Why Luck Plays a Big Role in Making You Rich - Bloomberg](http://www.bloomberg.com/news/articles/2016-09-01/why-luck-plays-a-big-role-in-making-you-rich). Nothing unknown here.
 
 ### September 2, 2016
 - [AMONG OTHER THINGS](http://www.ks1729.com/) -- Keerthik Sasidharan @[ks1729](https://twitter.com/ks1729)'s blog on literature, history of India and the world cultures.
-- [Apache Community Development - A Maturity Model for Apache Projects](http://community.apache.org/apache-way/apache-project-maturity-model.html)
+- [Apache Community Development - A Maturity Model for Apache Projects](http://community.apache.org/apache-way/apache-project-maturity-model.html). Update: Sep 13, 2016. Netbeans, the IDE has opted to become an Apache project, part of the reason was that Apache has a strong and proven model to run open source projects.
 
 ### September 3, 2016
 - [Elliot Chance - Automatically Locate When and Where Bugs Were Introduced with git bisect](http://elliot.land/automatically-locate-when-bugs-were-introduced-with-git-bisect) This is a good introduction to what is often mentioned in hushed tones as a advanced command. Pretty easy actually.
