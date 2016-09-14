@@ -77,8 +77,8 @@ pre, code {
     padding-left: 0em;
 }
 
-#TOC li > li  {
-	padding-left: 0.5em;
+#TOC li > ul  {
+	padding-top: 0.5em;
 }
 
 @medium print {
