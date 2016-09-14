@@ -97,3 +97,6 @@ $ twine upload dist/*
 
 ### September 12, 2016
 - [kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way on Google Cloud Platform or Amazon EC2. No scripts.](https://github.com/kelseyhightower/kubernetes-the-hard-way) 
+
+### September 13, 2016
+- [An updated Joel Test — steve.codes](http://www.steve.codes/blog/2016/7/22/an-updated-joel-test) 
