@@ -1,5 +1,6 @@
 <hr/>
-<p>Inspired by <a href="http://waxy.org/links/">waxy.org/links</a>.</p>
+<p>Inspired by <a href="http://waxy.org/links/">waxy.org/links</a>.
+Powered by <a href="https://github.com/Idnan/like-on-git">like-on-git</a> browser extension, <a href="http://pandoc.org/">Pandoc</a> document converter and <a href="https://www.gnu.org/software/make/">GNU Make</a>.</p>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
