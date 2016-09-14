@@ -51,7 +51,7 @@ pre, code {
 
 #TOC::before {
     content: "Navigation";
-    padding-left: 2em;
+    padding-left: 0.5em;
     font-weight: bold;
 }
 
@@ -63,6 +63,7 @@ pre, code {
     border: dotted 1px #ff9;
     background-color: #efefef;
     padding: 0em;
+    padding-top: 0.5em;
 }
 
 #TOC ul {
