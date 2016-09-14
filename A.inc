@@ -1,3 +1,4 @@
+<hr/>
 <p>Inspired by <a href="http://waxy.org/links/">waxy.org/links</a>.</p>
 
 <script>
