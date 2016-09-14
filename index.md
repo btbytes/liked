@@ -67,7 +67,8 @@ $ twine upload dist/*
 ## September
 
 ### September 1, 2016
-- [Why Luck Plays a Big Role in Making You Rich - Bloomberg](http://www.bloomberg.com/news/articles/2016-09-01/why-luck-plays-a-big-role-in-making-you-rich). Nothing unknown here.
+- [Why Luck Plays a Big Role in Making You Rich - Bloomberg](http://www.bloomberg.com/news/articles/2016-09-01/why-luck-plays-a-big-role-in-making-you-rich).  "He wants us all to know how fortunate we are.". A bit of gratitude everyday goes a long way.
+
 
 ### September 2, 2016
 - [AMONG OTHER THINGS](http://www.ks1729.com/) -- Keerthik Sasidharan @[ks1729](https://twitter.com/ks1729)'s blog on literature, history of India and the world cultures.
@@ -84,10 +85,12 @@ $ twine upload dist/*
 ### September 6, 2016
 
 - [Reflections on trusting trust](http://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf) by Ken Thompson  of C fame. In this Turing lecture he talks about the trojan he introduced in the C compiler that went undetected for many years.
+
 > To what extent should one trust a statement that a program is free of Trojan horses? Perhaps it is more important to trust the people who wrote the software.
 
 ### September 7, 2016
-- [Python Packaging at PayPal | PayPal Engineering Blog](https://www.paypal-engineering.com/2016/09/07/python-packaging-at-paypal/)
+- [Python Packaging at PayPal](https://www.paypal-engineering.com/2016/09/07/python-packaging-at-paypal/). Paypal has found success in using Anaconda Packaging for their deployments. This is something to keep in mind for the next python deployment.
+
 
 ### September 8, 2016
 - [A bite of Python](https://access.redhat.com/blogs/766093/posts/2592591) -- some gotchas while programming Python you have to keep in mind.
