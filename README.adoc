@@ -1,4 +1,0 @@
-= Webpages I liked
-
-- https://btbytes.github.io/liked/2017.html[2017]
-- https://btbytes.github.io/liked/2016.html[2016]

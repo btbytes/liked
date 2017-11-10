@@ -1,3 +1,0 @@
-#!/bin/bash
-
-git pull origin  && make && git commit -a -m "WIP" && git push origin
